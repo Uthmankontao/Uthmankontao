@@ -13,10 +13,10 @@
 - **[CS50 Python](https://github.com/Uthmankontao/CS50_Python)**  
   Ensemble des exercices et projets réalisés dans le cadre du cours *CS50’s Introduction to Programming with Python (Harvard)*.  
 
-- **[CS50 AI](https://github.com/Uthmankontao/CS50_AI)**  
+- **[CS50 AI]**  
   Projets en intelligence artificielle : recherche, optimisation, apprentissage automatique.  
 
-- *Vote/Like System*  
+- **Vote/Like System**  
   Implémentation complète d’un système de votes avec *FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT, Alembic*.  
 
 ---

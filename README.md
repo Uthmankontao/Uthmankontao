@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Ousmane KONTAO
+# Moi c’est Ousmane KONTAO
 
 🎓 Passionné par la programmation et l’intelligence artificielle, en parallèle avec mes études de data science parcours apprentissage automatique pour l'intelligence artificielle, j’apprends et je construis des projets pour renforcer mes compétences en *Python, développement web et IA*.  
 💡 J’aime transformer mes apprentissages en projets concrets et partager mon parcours sur GitHub.  

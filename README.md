@@ -56,7 +56,7 @@
 
 ## 📫 Me contacter
 
-- 🌐 [LinkedIn](www.linkedin.com/in/ousmanekontao)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ousmanekontao/)
 - ✉️ Email : ousmanekontao0120@gmail.com
 - 🐙 [GitHub](https://github.com/Uthmankontao)  
 
